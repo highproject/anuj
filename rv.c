@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include"file.h"
 #include<stdlib.h>
 
 void check(char a[])
